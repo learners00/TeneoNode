@@ -1,0 +1,5 @@
+{
+    "access_token": "your_access_token",
+    "ws_url": "wss://secure.ws.teneo.pro/websocket",
+    "version": "v0.2"
+}
